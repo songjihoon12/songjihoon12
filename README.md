@@ -20,6 +20,5 @@ Here are some ideas to get you started:
                                                                         
 
 
-![ezgif-2-5277a7f9d9](https://github.com/user-attachments/assets/5cefebc6-19ac-4299-8d11-f8970aa40eb3)
 
 
