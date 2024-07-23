@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songjihoon12&layout=compact)](https://github.com/songjihoon12/)
 
                                                                          "카무사리"
-                                                                         ![image](https://github.com/user-attachments/assets/3b650e81-2cad-4802-8fc6-4b2aef87010f)
+                                                                        
+
+
+https://github.com/user-attachments/assets/d3b844c7-1ef6-4be4-9682-59000ab688fc
+
