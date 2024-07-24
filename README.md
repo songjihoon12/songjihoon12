@@ -20,3 +20,4 @@ Here are some ideas to get you started:
                                                          
 
 <img src="https://raw.githubusercontent.com/songjihoon12/songjihoon12/main/shanks.webp">
+![화면 캡처 2024-07-24 112644](https://github.com/user-attachments/assets/063ac7a9-75cf-49ee-8fd2-efc9a7da02a6)
