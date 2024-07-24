@@ -19,4 +19,4 @@ Here are some ideas to get you started:
                                                           "카무사리"
                                                          
 
-<img src="https://camo.githubusercontent.com/9ab2a4b552b1cd424453507d84b4f26389b8a96ab4538ad4e8d32b08e2d7dbae/68747470733a2f2f73362e657a6769662e636f6d2f746d702f657a6769662d362d396437333135616139362e77656270">
+<img src="https://raw.githubusercontent.com/songjihoon12/songjihoon12/main/shanks.webp">
