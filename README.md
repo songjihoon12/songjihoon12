@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songjihoon12&layout=compact)](https://github.com/songjihoon12/)
 
-                                                          "카무사리"
-                                                         
+                                                
 
 <img src="https://raw.githubusercontent.com/songjihoon12/songjihoon12/main/shanks.webp">
 <img src = "https://github.com/user-attachments/assets/063ac7a9-75cf-49ee-8fd2-efc9a7da02a6">
